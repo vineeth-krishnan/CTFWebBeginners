@@ -35,6 +35,12 @@
    Try to see if you can find a way to authenticate as an admin and retrieve the flag. [Hashbrown Database](http://138.197.193.132:5000/login)
 9. These website requires authentication, via POST. However, it seems as if someone has defaced our site. 
    Maybe these is still some way to authenticate? [Webpage](http://165.227.106.113/post.php)
+-
+-
+-
+-
+-
+-
 
    
    # STOP Don't Look at the Hints. Try Exploring the webpage and question first
@@ -45,8 +51,10 @@
 -
 -
 -
-
-   
+-
+-
+-
+-  
    
 # Hints
 1. https://linux.die.net/man/1/nc
