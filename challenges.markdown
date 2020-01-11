@@ -1,4 +1,4 @@
-# Challanges
+# Challenges
 
 
 ## Level 1
