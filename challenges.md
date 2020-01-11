@@ -1,3 +1,10 @@
+# Instructions
+- Start with Level 1 and then move up to other levels
+- Try the challanges by exploring the webpage and hints within the question (Don't look at the Hints given at the end)
+- If the webpage and question still doesn't give a clue consult the hints
+- Tip: Google the words in the question and the hints that you find important
+
+
 # Challenges
 
 
@@ -29,6 +36,25 @@
 9. These website requires authentication, via POST. However, it seems as if someone has defaced our site. 
    Maybe these is still some way to authenticate? [Webpage](http://165.227.106.113/post.php)
    
+   
+   
+   
+   
+   
+   
+   # STOP don't Look at the Hints. Try Exploring the webpage and question first
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 # Hints
 1. https://linux.die.net/man/1/nc
 2. How do you inspect a website's code on a browser?
@@ -36,3 +62,8 @@
 4. Hmm it doesn't seem to check anyone's password, except for admins
 5. Analyzing pcap files are good with Shark.
 6. What part of the website could tell you where the creator doesn't want you to look?
+
+
+- Author: Vineeth Krishnan
+- Sources: PicoCTF 2018
+           CTF Learn
